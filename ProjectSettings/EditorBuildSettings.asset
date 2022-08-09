@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 66733063e5eb8c9489d5fa4b14924eb6
+  - enabled: 1
+    path: Assets/Scenes/Change_Character.unity
+    guid: aa3e602ea6bb6744791083b8f02ab260
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9e77aeb6d9884f242ba5d110d3a57924
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 7919d756be589c64eb57302ecf59aaa1
+  - enabled: 1
+    path: Assets/Scenes/NarasiSemua.unity
+    guid: d5045034eff47be4b9d62aa95e4be96c
+  - enabled: 1
+    path: Assets/Scenes/NarasiSemuaDark.unity
+    guid: 175afb344fec28d4fb52199ebefc6dde
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwal.unity
+    guid: 445e37fbac2180e44aa571aaaf7f9112
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwal2.unity
+    guid: adbb1aa94b0bedc44828b356f11cfdf3
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwal3.unity
+    guid: 3a995edfe9b17e7499bcd5e20c4edbe2
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwal4.unity
+    guid: a1a88245080a99d4ea37fc4f06cfefc3
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwalDark.unity
+    guid: b25970a955e9f4a418712dbd2450eca9
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwalDark2.unity
+    guid: 5a123b53b9e537b4a989d100813ab0e3
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwalDark3.unity
+    guid: 3d9e7557cced91440bcea563cb5c1d81
+  - enabled: 1
+    path: Assets/Scenes/NarasiAwalDark4.unity
+    guid: fd1c91aa0ac72d140acad9f099e63eff
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 844ef77af8732b84bba0f2686a6d3c17
+  - enabled: 1
+    path: Assets/Scenes/HowToPlayDark.unity
+    guid: b62897921097b864c907dfd476afb476
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectDark.unity
+    guid: 565eba87626a094468f54b1095e3da11
+  - enabled: 0
+    path: Assets/Scenes/pcg.unity
+    guid: a3a87721ad11b0d42af0cc0a694e5523
+  - enabled: 0
+    path: Assets/Scenes/pcgDark.unity
+    guid: 8e6e2da1cc97ec14989d0ac5a75e64c0
+  - enabled: 1
+    path: Assets/Scenes/Level1Dark.unity
+    guid: 041651d6b9fded9418ae34c8a2e96274
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: c6a8fb85524197c4289d2af9ff816598
+  - enabled: 1
+    path: Assets/Scenes/Narasi1.unity
+    guid: ac689cd85fcbbcd4ea6fc5c456e919ea
+  - enabled: 1
+    path: Assets/Scenes/Narasi1Dark.unity
+    guid: a66f0865449fbbc45a8d312cd4431abf
+  - enabled: 0
+    path: Assets/Scenes/pcg2.unity
+    guid: 25255b099d6e5d74a876392200b28915
+  - enabled: 1
+    path: Assets/Scenes/Level2Dark.unity
+    guid: ebf4c9e970ee02445b5a3cb971c82c24
+  - enabled: 0
+    path: Assets/Scenes/pcg2Dark.unity
+    guid: 56adbed4156da434ba35d0616e38a594
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 2759d56af3cc8534ea34107bf38d35f8
+  - enabled: 1
+    path: Assets/Scenes/Narasi2.unity
+    guid: 4633b613334ba284785013f8887492d7
+  - enabled: 1
+    path: Assets/Scenes/Narasi2Dark.unity
+    guid: 3daa85f288923ad45aca6e095075253b
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: ae917be00413f6f44b7b1f748755f5c9
+  - enabled: 1
+    path: Assets/Scenes/Level3Dark.unity
+    guid: a1ca4b022474ead4783578ff49fb3029
+  - enabled: 1
+    path: Assets/Scenes/Narasi3.unity
+    guid: a54cfd6fabefafa4e827bff638308dbc
+  - enabled: 1
+    path: Assets/Scenes/Narasi3Dark.unity
+    guid: 7db0424dd366b564eb0a447be1ada033
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 4ed8942413f0cba4daf6fe9b854db7c6
+  - enabled: 1
+    path: Assets/Scenes/Level4Dark.unity
+    guid: 3d014247515a65141816039b291976ee
+  - enabled: 1
+    path: Assets/Scenes/Narasi4.unity
+    guid: 8cae265a14c62ec42b12e8430d8e0766
+  - enabled: 1
+    path: Assets/Scenes/Narasi4Dark.unity
+    guid: 31950da5cdf75c8419867d17e709d79a
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 5917c670af069954aac803ebb1ff259a
+  - enabled: 1
+    path: Assets/Scenes/Level5Dark.unity
+    guid: 1810d972848451749b577e8cc236dde4
+  - enabled: 1
+    path: Assets/Scenes/Narasi5.unity
+    guid: 4b7130310aa4f7745badb85e4b7f5a2b
+  - enabled: 1
+    path: Assets/Scenes/Narasi5Dark.unity
+    guid: 4fc381c8e92741942854df1f88645114
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 261e34828fe816f4ab59161fc7c9e3d7
+  - enabled: 1
+    path: Assets/Scenes/Level6Dark.unity
+    guid: 0115e350e5b4b5e45a34f4edd9c36315
+  - enabled: 1
+    path: Assets/Scenes/Narasi6.unity
+    guid: 6c85c1d2f30e6f548bdf733650b6c8c1
+  - enabled: 1
+    path: Assets/Scenes/Narasi6Dark.unity
+    guid: 7987272352303eb4b80b8d93b9b87a00
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 3c6c12b2ba051934bb8747a173df5681
+  - enabled: 1
+    path: Assets/Scenes/Level7Dark.unity
+    guid: 9ec6fea22aa255346b5cf627fadc30e9
+  - enabled: 1
+    path: Assets/Scenes/Narasi7.unity
+    guid: 73fa2be7e885c2043b3a3cec99dd8b12
+  - enabled: 1
+    path: Assets/Scenes/Narasi7Dark.unity
+    guid: 8551caed4805a8b4ca1076e2a1e939e0
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 0545ed2e352538a4f83617dc7571d8f6
+  - enabled: 1
+    path: Assets/Scenes/Level8Dark.unity
+    guid: 66fbedc8a43dab04391527960a8bda0f
+  - enabled: 1
+    path: Assets/Scenes/Narasi8.unity
+    guid: 5f6270f4d6b942f40825de3f4c160a03
+  - enabled: 1
+    path: Assets/Scenes/Narasi8Dark.unity
+    guid: f0639502da17c574dbfd7a058bbbee14
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 85e3ab37ff6ad224b81317a62acd9161
+  - enabled: 1
+    path: Assets/Scenes/Level9Dark.unity
+    guid: c98f7df02d2f47e4ea82187e892c5644
+  - enabled: 1
+    path: Assets/Scenes/Narasi9.unity
+    guid: 0021869b2f8e8f5489ab45d2c16f8106
+  - enabled: 1
+    path: Assets/Scenes/Narasi9Dark.unity
+    guid: 8100601cd2ec27041b5fd0014509abda
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 764873033ed4548419056b19380a4645
+  - enabled: 1
+    path: Assets/Scenes/Level10Dark.unity
+    guid: f835ef582d02a5a428e7b1adeffce114
+  - enabled: 1
+    path: Assets/Scenes/Narasi10.unity
+    guid: d3d3e7c9900854e4fb159fa47f7f6a68
+  - enabled: 1
+    path: Assets/Scenes/Narasi10.2.unity
+    guid: d4096b45d3d198e4582aca33d395cf12
+  - enabled: 1
+    path: Assets/Scenes/Narasi10.3.unity
+    guid: e8eff2cb27be248469ce3f0edb628b94
+  - enabled: 1
+    path: Assets/Scenes/Narasi10.4.unity
+    guid: 14589cae6ff9aac4c9919982d5e15fc7
+  - enabled: 1
+    path: Assets/Scenes/Narasi10.5.unity
+    guid: a6e9dbbfd7a569d479afeb6eddf9e9f9
+  - enabled: 1
+    path: Assets/Scenes/Narasi10.6.unity
+    guid: cc5c58a0a176a3c4abf1baa312eefa96
+  - enabled: 1
+    path: Assets/Scenes/Narasi10Dark.unity
+    guid: 4cf4156c0d4da9a47b9012aa2674006e
+  - enabled: 1
+    path: Assets/Scenes/LevelHidden.unity
+    guid: 8bf392a5136517c41a66ce051c201f30
+  - enabled: 1
+    path: Assets/Scenes/LevelHiddenDark.unity
+    guid: a32bdbcf630fc05429cd4f63f49c18d4
+  - enabled: 1
+    path: Assets/Scenes/Epilog.unity
+    guid: b69fa5785cfa4b14e90ea649a7032f03
+  - enabled: 1
+    path: Assets/Scenes/Epilog1.unity
+    guid: a3bd00a8a655c6a44a20a146b6e2369f
+  - enabled: 1
+    path: Assets/Scenes/epilog2.unity
+    guid: 0b156c16d9351df4096d7fab50d85052
+  - enabled: 1
+    path: Assets/Scenes/Tamat.unity
+    guid: 5bfe3ff2bb16c7942acf469338968225
+  m_configObjects: {}

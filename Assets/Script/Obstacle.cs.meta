@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 216d722ddb6f563488fdc60b94efd8c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Darah: {fileID: 7898157771194802061, guid: acc9bcb2032b8f04fa1c108f1ed1f0c7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
